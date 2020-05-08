@@ -1,6 +1,6 @@
 # grpcmobil
 
-Mobil Uygulama Geliştirme  Ödevi
+Mobil Uygulama Geliştirme Ödevi
 
 ## Getting Started
 
