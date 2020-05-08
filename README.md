@@ -1,1 +1,1 @@
-# atikVarMobileApp
+# Mobil Uygulama Geliştirme / Atık Projesi
